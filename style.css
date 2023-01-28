@@ -18,3 +18,10 @@ body {
     text-decoration: none;
     color: #ffffff;
 }
+
+#menu {
+    display: flex;
+    padding: 0 60px;
+    /*aumentar o tamnho do click do menu*/
+    gap: 10px;
+}
